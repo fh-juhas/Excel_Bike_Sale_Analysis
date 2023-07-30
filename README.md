@@ -16,7 +16,7 @@ Occupation <br />
 Home Owner <br />
 Cars <br />
 Commute Distance <br />
-Region
+Region <br />
 Age ( I have added a new column named "Age Group" by applying formula on Age column) <br />
 Purchased Bike <br />
 
