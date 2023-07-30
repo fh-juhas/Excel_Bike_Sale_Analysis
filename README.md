@@ -6,19 +6,19 @@ This dataset has details of 1000 users from different backgrounds and whether or
 
 Columns -
 
-ID
-Marital Status
-Gender
-Income
-Children
-Education
-Occupation
-Home Owner
-Cars
-Commute Distance
+ID <br />
+Marital Status <br />
+Gender <br />
+Income <br />
+Children <br />
+Education <br />
+Occupation <br />
+Home Owner <br />
+Cars <br />
+Commute Distance <br />
 Region
-Age ( I have added a new column named "Age Group" by applying formula on Age column)
-Purchased Bike
+Age ( I have added a new column named "Age Group" by applying formula on Age column) <br />
+Purchased Bike <br />
 
 
 
