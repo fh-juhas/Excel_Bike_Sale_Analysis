@@ -1,10 +1,10 @@
 # Excel_Bike_Sale_Analysis
 
-About Dataset
+# About Dataset
 Bike Buyers Dataset for Exploratory Data Analysis
-This dataset has details of 1000 users from different backgrounds and whether or not they buy a bike. This data can be used for prediction models using Machine Learning Algorithms. There are some NA values injected in the dataset. Use this dataset for Data Cleaning, Exploration and Visualization.
+This dataset has details of 1000 users from different backgrounds and whether or not they buy a bike. This data can be used for prediction models using Machine Learning Algorithms. There are some NA values injected in the dataset. I have used this dataset for Data Cleaning, Exploration and Visualization.
 
-Columns -
+# Columns -
 
 ID <br />
 Marital Status <br />
